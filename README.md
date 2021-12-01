@@ -1,1 +1,1 @@
-# baby-doge
+# coins-token
